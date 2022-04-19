@@ -2,18 +2,21 @@
   ✏️ Course from Vladimir Agaev  
 </h1>
 
-<p align="center">
-  
-  <a href="https://www.youtube.com/watch?v=GHTA143_b-s&t=6s">Check out his YouTube channel freeCodeCamp.org</a>
-
+<p align="center">  
+  <a href="https://www.youtube.com/watch?v=GHTA143_b-s&t=6s" target="blank">Check out his YouTube channel freeCodeCamp.org</a>
 </p>
 <p align="center">
-  <a href="https://github.com/vladwulf/nestjs-api-tutorial">Check out his YouTube channel Vladimir Agaev</a>
+  <a href="https://github.com/vladwulf/nestjs-api-tutorial" target="blank">Check out his YouTube channel Vladimir Agaev</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vladwulf/nestjs-api-tutorial">Vladimir Agaev's Github Repository</a>
+  <a href="https://github.com/vladwulf/nestjs-api-tutorial" target="blank">Vladimir Agaev's Github Repository</a>
 </p>
+
+<p align="center">
+  In this course, we build a bookmarks API from scratch using nestJs, docker, postgres, passport js, prisma, pactum and dotenv.
+</p>
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
